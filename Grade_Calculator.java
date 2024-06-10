@@ -9,11 +9,7 @@ class excp{
     
 }
 
-// class FailOrPass{
-//     void fail(double math, double che, double phy, double bio){
-        
-//     }
-// }
+
 
 
 
